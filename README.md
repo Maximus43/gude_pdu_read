@@ -5,7 +5,7 @@ This tool provides a simple command-line interface to interact with PDU Gude 831
 These instructions will get you a copy of the project up and running on your local machine.
 
 ## Prerequisites
-This tool requires Python 3.7 or newer. If necessary, you can download Python here.
+This tool requires Python 3.7 or newer.
 
 ## Installation
 Clone the repository to your local machine:
